@@ -28,5 +28,6 @@ int main()
  * Summary
  *  * pointer variable = value
  *  & pointer variable = address
+ *  Dereference - Using variable address get variable value it's called Dereference
  * 
 */
